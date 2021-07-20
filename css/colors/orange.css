@@ -1,20 +1,20 @@
-/* Black - #3498db */
+/* orange - #e67e22 */
 
 
-a:link,a:visited,.navbar-default .navbar-nav>li>a:hover,
-.navbar-default .navbar-nav>li>a:focus,a:hover,a:active,.navbar-default .navbar-nav>.active>a,
-.navbar-default .navbar-nav>.active>a:hover,
+a:link,a:visited,.navbar-default .navbar-nav>li>a:hover, 
+.navbar-default .navbar-nav>li>a:focus,a:hover,a:active,.navbar-default .navbar-nav>.active>a, 
+.navbar-default .navbar-nav>.active>a:hover, 
 .navbar-default .navbar-nav>.active>a:focus{
-	color:#000000;
+	color:#e67e22;
 }
 
 .spacer,.nav-pills>li.active>a, .nav-pills>li.active>a:hover, .nav-pills>li.active>a:focus,#grid .mix .overlay {
 
-background: #c0c0c0
+background: #e67e22;
 }
 
 #page-contact{
-	background: #c0c0c0;
+	background: #e67e22;
 	color:#fff;
 }
 
@@ -28,5 +28,6 @@ background: #c0c0c0
 
 .btn.btn-default:hover,
 .btn.btn-default:active{
-    color:#c0c0c0;
+    color:#e67e22;
 }
+
